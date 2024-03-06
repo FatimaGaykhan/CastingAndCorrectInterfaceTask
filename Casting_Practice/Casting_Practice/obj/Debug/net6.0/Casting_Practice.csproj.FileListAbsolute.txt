@@ -1,0 +1,15 @@
+/Users/fatimagaykhanova/Desktop/Casting_Practice/Casting_Practice/bin/Debug/net6.0/Casting_Practice
+/Users/fatimagaykhanova/Desktop/Casting_Practice/Casting_Practice/bin/Debug/net6.0/Casting_Practice.deps.json
+/Users/fatimagaykhanova/Desktop/Casting_Practice/Casting_Practice/bin/Debug/net6.0/Casting_Practice.runtimeconfig.json
+/Users/fatimagaykhanova/Desktop/Casting_Practice/Casting_Practice/bin/Debug/net6.0/Casting_Practice.dll
+/Users/fatimagaykhanova/Desktop/Casting_Practice/Casting_Practice/bin/Debug/net6.0/Casting_Practice.pdb
+/Users/fatimagaykhanova/Desktop/Casting_Practice/Casting_Practice/obj/Debug/net6.0/Casting_Practice.csproj.AssemblyReference.cache
+/Users/fatimagaykhanova/Desktop/Casting_Practice/Casting_Practice/obj/Debug/net6.0/Casting_Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatimagaykhanova/Desktop/Casting_Practice/Casting_Practice/obj/Debug/net6.0/Casting_Practice.AssemblyInfoInputs.cache
+/Users/fatimagaykhanova/Desktop/Casting_Practice/Casting_Practice/obj/Debug/net6.0/Casting_Practice.AssemblyInfo.cs
+/Users/fatimagaykhanova/Desktop/Casting_Practice/Casting_Practice/obj/Debug/net6.0/Casting_Practice.csproj.CoreCompileInputs.cache
+/Users/fatimagaykhanova/Desktop/Casting_Practice/Casting_Practice/obj/Debug/net6.0/Casting_Practice.dll
+/Users/fatimagaykhanova/Desktop/Casting_Practice/Casting_Practice/obj/Debug/net6.0/refint/Casting_Practice.dll
+/Users/fatimagaykhanova/Desktop/Casting_Practice/Casting_Practice/obj/Debug/net6.0/Casting_Practice.pdb
+/Users/fatimagaykhanova/Desktop/Casting_Practice/Casting_Practice/obj/Debug/net6.0/Casting_Practice.genruntimeconfig.cache
+/Users/fatimagaykhanova/Desktop/Casting_Practice/Casting_Practice/obj/Debug/net6.0/ref/Casting_Practice.dll
